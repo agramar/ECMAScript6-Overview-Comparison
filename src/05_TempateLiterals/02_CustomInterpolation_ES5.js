@@ -1,0 +1,1 @@
+get([ "http://example.com/foo?bar=", "&quux=", "" ],bar + baz, quux);

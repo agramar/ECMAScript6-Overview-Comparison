@@ -1,7 +1,3 @@
-// ES6
-const PI = 3.141593;
-PI > 3.0
-
 // ES5
 //  only in ES5 through the help of object properties
 //  and only in global context and not in a block scope
